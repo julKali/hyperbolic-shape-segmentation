@@ -1,0 +1,12 @@
+see if collapses at border => doesnt look like it
+try dim=40 => still eucl is better
+try hierarchical sigmoid
+try with classes
+visualise 2d disk
+cones?
+
+TODO:
+-- train & visualize 2D
+-- use pointne v1
+-- use hierarchical softmax and cross entropy
+
