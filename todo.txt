@@ -7,6 +7,11 @@ cones?
 
 TODO:
 -- train & visualize 2D
--- use pointne v1
--- use hierarchical softmax and cross entropy
+-- use pointne v1 => done
+-- use hierarchical softmax and cross entropy => done
 
+-- check that ||class_emb|| < ||inst_emb|| for inst of class => not the case
+-- try 2D, check if collapses at border ...
+-- eucl with hierarchical loss => done, ~ same best
+-- try different curvatures !
+-- try less points => faster training, if combined with bigger batch size

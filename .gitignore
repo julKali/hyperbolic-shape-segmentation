@@ -3,3 +3,4 @@ geoopt/
 dataset/
 pointnet/
 wandb/
+.ipynb_checkpoints/
