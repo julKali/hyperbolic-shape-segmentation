@@ -4,3 +4,4 @@ dataset/
 pointnet/
 wandb/
 .ipynb_checkpoints/
+*.py.save
