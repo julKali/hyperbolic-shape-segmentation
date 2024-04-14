@@ -1,7 +1,6 @@
 __pycache__/
 geoopt/
-dataset/
-pointnet/
+dataset/data/
 wandb/
 .ipynb_checkpoints/
 *.py.save
